@@ -1,8 +1,8 @@
-import { NgModule } from "@angular/core";
+import { NgModule } from '@angular/core';
 
 @NgModule({
     imports: [],
-    export: []
+    exports: []
 })
 
 export class MaterialModule {}
